@@ -1,0 +1,6 @@
+{
+  "name": "CNMC Emergency Landing Page",
+  "description": "校園網路管理小組 (CNMC) 的極簡、高質感、一頁式響應式緊急首頁，配備微光網格、深淺色模式與網路診斷工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
