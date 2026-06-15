@@ -212,7 +212,6 @@ export default function App() {
             </div>
             <div className="flex flex-col">
               <span className="font-bold text-xl tracking-tight text-slate-900 dark:text-white">CNMC</span>
-              <span className="font-mono text-[9px] text-blue-600/85 dark:text-cyan-400/80 tracking-widest leading-none font-bold">EMERGENCY_PORTAL</span>
             </div>
           </div>
 
